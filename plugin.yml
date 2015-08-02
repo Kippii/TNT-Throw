@@ -1,0 +1,5 @@
+name: TNT Throw
+main: me.kippy.tnt.Core
+version: 1.0
+description: >
+             Throwable TNT.
